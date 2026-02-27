@@ -1,0 +1,92 @@
+# ╔═════════════════════════════════════════════════════════╗
+# ║  InterIA Math Lab                                       ║
+# ║  .gitignore  ·  version 1.0.0  ·  © 2026 Couret-InterIA ║
+# ╚═════════════════════════════════════════════════════════╝
+
+# ─────────────────────────────
+#  1. LaTeX build artefacts
+# ─────────────────────────────
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.pdfsync
+*.ps
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+*.run.xml
+*.synctex(busy)
+
+# ─────────────────────────────
+#  2. latexmk / temporary dirs
+# ─────────────────────────────
+_build/
+out/
+build/
+tmp/
+cache/
+logs/
+
+# ─────────────────────────────
+#  3. Python / pre-commit caches
+# ─────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.tox/
+.venv/
+venv/
+*.egg-info/
+dist/
+artifacts/
+
+# ─────────────────────────────
+#  4. OS-specific artefacts
+# ─────────────────────────────
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# ─────────────────────────────
+#  5. Archives and bundles
+# ─────────────────────────────
+*.zip
+*.tar
+*.gz
+*.7z
+
+# ─────────────────────────────
+#  6. Logs / CI temp files
+# ─────────────────────────────
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ─────────────────────────────
+#  7. Ignore editor backups
+# ─────────────────────────────
+*~
+*.bak
+*.orig
+*.rej
+*.tmp
