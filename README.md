@@ -1,3 +1,5 @@
+> **Exploratory and historical material — status clarification, 1 October 2026.** Spectral and λ-related experiments are not a proof of RH, a universal rigidity theorem or a validated general invariant. Reported historical numerical values require their precise data, pipeline and replay. Superseded global interpretations are not current claims. This does not withdraw independently stated finite arithmetic identities or finite normalisations. See [CURRENT_STATUS.md](CURRENT_STATUS.md) and the [current publications](https://www.couretunification.fr/publications-et-depots/).
+
 <p align="right">
   <a href="https://github.com/couret-interia/community/discussions"><img alt="💬 Discussion" src="https://img.shields.io/badge/💬-Discussion-1e88e5?labelColor=0d47a1"></a>
   <sup> · </sup>
