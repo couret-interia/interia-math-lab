@@ -1,3 +1,5 @@
+> **Exploration et archives — clarification du 1er octobre 2026.** Les expériences spectrales et la ligne λ ne constituent ni preuve de RH, ni théorème de rigidité universelle, ni invariant général validé. Les valeurs historiques rapportées demandent données, protocole et rejeu identifiés. Les interprétations globales démotionnées ne sont pas des revendications actuelles. Les identités et normalisations finies justifiées séparément conservent leur propre portée. Voir [CURRENT_STATUS.md](CURRENT_STATUS.md) et les [publications actuelles](https://www.couretunification.fr/publications-et-depots/).
+
 <p align="right">
   <a href="https://github.com/couret-interia/community/discussions"><img alt="💬 Discussion" src="https://img.shields.io/badge/💬-Discussion-1e88e5?labelColor=0d47a1"></a>
   <sup> · </sup>
